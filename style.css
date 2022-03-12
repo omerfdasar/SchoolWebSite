@@ -47,7 +47,40 @@
   width: 70vw;
   height: 40vh;
 }
+<<<<<<< HEAD
  */
  .gallery-para{
      text-align: justify;
  }
+=======
+#about-content{
+    position:relative;
+    min-height:300px;
+    min-width: 100%;
+    background-image: url("./img/about.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position:l0 top;
+    color:white
+}
+#courses-content{
+    position:relative;
+    min-height:300px;
+    min-width: 100%;
+    background-image: url("./img/course.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position:l0 50%;
+    color:white
+}
+#contact-content{
+    position:relative;
+    min-height:300px;
+    min-width: 100%;
+    background-image: url("./img/bg-contact.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position:l0 top;
+    color:white
+}
+>>>>>>> 71ee128b806708c8af924271e3ca389221efa0e2
